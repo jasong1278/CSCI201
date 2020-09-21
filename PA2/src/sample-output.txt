@@ -1,0 +1,65 @@
+Enter an input file
+notfound.txt
+File not found, enter a new input file
+input.txt
+What would you like to do with your database of codes?
+	1) Get frequency of a code
+	2) Check if a code was guessed
+	3) Remove a code
+	4) quit
+1
+Enter a code to check its frequency
+asdf
+asdf was guessed by 3 teammates
+What would you like to do with your database of codes?
+	1) Get frequency of a code
+	2) Check if a code was guessed
+	3) Remove a code
+	4) quit
+1
+Enter a code to check its frequency
+ldks
+ldks was guessed by 0 teammates
+What would you like to do with your database of codes?
+	1) Get frequency of a code
+	2) Check if a code was guessed
+	3) Remove a code
+	4) quit
+2
+Enter a code to check if it was guessed by a teammate
+kdjw
+kdjw was guessed by a teammate
+What would you like to do with your database of codes?
+	1) Get frequency of a code
+	2) Check if a code was guessed
+	3) Remove a code
+	4) quit
+2
+Enter a code to check if it was guessed by a teammate
+asdfed
+asdfed was not guessed by a teammate
+What would you like to do with your database of codes?
+	1) Get frequency of a code
+	2) Check if a code was guessed
+	3) Remove a code
+	4) quit
+3
+Enter a code to remove
+asdf
+asdf was removed from your database
+What would you like to do with your database of codes?
+	1) Get frequency of a code
+	2) Check if a code was guessed
+	3) Remove a code
+	4) quit
+1
+Enter a code to check its frequency
+asdf
+asdf was guessed by 0 teammates
+What would you like to do with your database of codes?
+	1) Get frequency of a code
+	2) Check if a code was guessed
+	3) Remove a code
+	4) quit
+4
+Quitting, have a nice day!

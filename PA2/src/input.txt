@@ -1,0 +1,29 @@
+[ 
+	{
+		"codes": [
+			"asdf",
+			"agds",
+			"d9sd",
+			"deds",
+			"dles"
+		]
+	},
+	{
+		"codes": [
+			"kdjw",
+			"dkew",
+			"d9sd",
+			"slem",
+			"asdf"
+		]
+	},
+	{
+		"codes": [
+			"asdf",
+			"dsse",
+			"dfee",
+			"ddsa",
+			"asde"
+		]
+	}
+]
